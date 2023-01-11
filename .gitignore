@@ -36,4 +36,4 @@ notification.mp3
 /config_states/
 
 Autonmatic111 Stable Diffusion.lnk
-models/Stable-diffusion/Put Stable Diffusion checkpoints here.txt
+models/Stable-diffusion/*
