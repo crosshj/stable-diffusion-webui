@@ -34,6 +34,6 @@ notification.mp3
 /test/stderr.txt
 /cache.json*
 /config_states/
-/node_modules
-/package-lock.json
-/.coverage*
+
+Autonmatic111 Stable Diffusion.lnk
+models/Stable-diffusion/Put Stable Diffusion checkpoints here.txt
