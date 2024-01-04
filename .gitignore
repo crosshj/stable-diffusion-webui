@@ -34,3 +34,7 @@ notification.mp3
 /test/stderr.txt
 /cache.json*
 /config_states/
+
+Autonmatic111 Stable Diffusion.lnk
+models/Stable-diffusion/*
+nsfw/**/*
